@@ -1,0 +1,11 @@
+# Tell GitHub to ignore HTML/Markdown when detecting primary language
+*.html linguist-documentation
+*.md linguist-documentation
+
+# Force MATLAB to be detected and counted
+*.m linguist-language=MATLAB
+*.m linguist-detectable=true
+
+# Mark Simulink files (so they show up properly)
+*.slx linguist-language=Simulink
+*.mdl linguist-language=Simulink
