@@ -3,7 +3,7 @@
 **4-DOF longitudinal model · state-space representation · MIL-SPEC CAP verified**
 
 📄 [Full Technical One-Pager (PDF)](./flight_dynamics_onepager.pdf)  
-🎥 [Demo video](https://youtu.be/YOUR-VIDEO-ID) *(add after Phase 3)*
+🎥 [Demo video](https://youtu.be/YOUR-VIDEO-ID) 
 
 ---
 
